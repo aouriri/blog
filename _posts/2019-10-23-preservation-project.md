@@ -10,8 +10,7 @@ In honor of the [ALCTS Preservation Week](http://www.ala.org/alcts/preservationw
 - **Scan all the photos** at least the *really* important ones
 - Organize, since img250.tif isn't really descriptive, amirite?
 - Make 'em pretty: crop, light touch-ups
-- SHARE
-  - find a CMS that my family members can view the images and even share stories and/or comments about them
+- SHARE: find a CMS that my family members can view the images and even share stories and/or comments about them
 - Rinse and repeat for other contributed photos
 
 I'm just gonna leave this here for encouragement. 
