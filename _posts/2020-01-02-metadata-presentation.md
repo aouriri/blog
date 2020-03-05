@@ -7,7 +7,7 @@ date: 2020-01-02
 Happy New Year!! The last two months of 2019 were...eventful. In a good way. Four months after graduating from grad school with my MLS and dipping my toe in the job pool, I was fortunate enough to land a phone interview with the University of Texas at Rio Grande Valley for their metadata librarian position. Then, an on-campus interview. Then. THE. JOB.
 
 <p align="center">
-  <img width="460" height="300" src="https://media2.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif">
+  <img width="300" height="300" src="https://media2.giphy.com/media/Nm8ZPAGOwZUQM/giphy.gif">
 </p>
 
 It honestly still doesn't feel real. The interesting and equally terrifying thing about the process was the presentation that accompanied the in-person interview. To paraphrase, the presentation topic was about how metadata can impact user experience and how metadata can reflect the community that the library serves. The interesting part was discovering all of the library peeps working to make metadata work in ways that truly reflect users. In finding resources for my presentation, it made me proud and excited to enter into this area of librarianship. Because I was so enthralled, I couldn't keep this awesomeness to myself, so, I made a bibliography of the resources I used and resources to read later. Check it out: 
