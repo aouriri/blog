@@ -15,5 +15,5 @@ In honor of the [ALCTS Preservation Week](http://www.ala.org/alcts/preservationw
 
 I'm just gonna leave this here for encouragement. 
 
-![good luck](https://media.giphy.com/media/cYA2ClBxQZuiQ/giphy.gif){.center}
+![good luck](https://media.giphy.com/media/cYA2ClBxQZuiQ/giphy.gif)
 
