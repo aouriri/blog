@@ -13,7 +13,7 @@ For a final project, we were to create a data model, XML schema, and an XML reco
 
 XML Schema 
 
-```XML
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
 targetNamespace="http://lhs.org/grossvelt/bird.xsd"
@@ -52,7 +52,7 @@ xmlns="http://lhs.org/grossvelt/bird.xsd" elementFormDefault="unqualified">
 
 XML record
 
-```XML
+```xml
 <!-- Bird info.
 Scientific name: Bubulcus ibis
 Popular name: Cattle egret
