@@ -7,7 +7,7 @@ date: 2019-11-14
 As part of Library Juice Academy's Certificate in XML and RDF-Based Systems, I am taking the course RDF, RDFa and Structured Data Vocabularies. In the second exercise, we are to use a bare HTML template and add RDFa 1.1 Lite to the content of the HTML template. If you enter the code below into [RDFa Play](http://rdfa.info/play/), you can see a visualization of the how the RDF content is arranged and the Raw Data. It's pretty interesting how this works: on the front end, all that is seen is the paragraph. Very nondescript, very plain. But the RDFa 1.1 Lite attributes sprinkled throughout the paragraph creates descriptive metadata so an RDFa-aware processor or search engine will be able to extract this information and for example, link my data to other items on the web.
 
 
-```HTML
+```html
 <!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
