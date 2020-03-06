@@ -49,7 +49,6 @@ xmlns="http://lhs.org/grossvelt/bird.xsd" elementFormDefault="unqualified">
 </xs:schema>
 ```
 
-
 XML record
 
 ```xml
