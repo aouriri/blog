@@ -7,7 +7,7 @@ So, a lot has happened since my last post. So much so, that it's taken me two mo
 
 Quick updates:
 * One month down at new job
-* Made a thing for my office (below) ![digitaldisplay](https://aouriri.github.io/blog/images/IMG_20200229_152412.jpg)
+* Made a thing for my office (below) ![digitaldisplay](https://aouriri.github.io/blog/assets/ER-TFoyWkAEcRtq.jpg)
 * Enrolled in Metadata Implementation through Library Juice Academy for March
 * Attending the 2020 RDAP Summit
 * Find new blog layout??
