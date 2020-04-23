@@ -19,4 +19,7 @@ As I spent all of February unpacking and making this apartment feel like “mine
 > You don’t have to be an expert. No one is expecting you to be an expert. All you need to do is show up and be you. - Ruth Soukup
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=6kxI1fcOjSY" frameborder="0" allowfullscreen></iframe>
+
+
 [^1]: Matthews, G., & Clance, P. (1985). Treatment of the impostor phenomenon in psychotherapy clients. *Psychotherapy in Private practice*, *3*(1), 71-81.
