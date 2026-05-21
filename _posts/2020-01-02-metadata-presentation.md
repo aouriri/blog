@@ -42,7 +42,7 @@ Lopatin, L. (2010). Metadata practices in academic and non-academic libraries fo
 
 Manninen, L. (2018). Describing data: A review of metadata for datasets in the digital commons institutional repository platform: Problems and recommendations. *Journal of Library Metadata*, *18*(1), 1–11. [https://doi.org/10.1080/19386389.2018.1454379](https://doi.org/10.1080/19386389.2018.1454379)
 
-Matienzo, M. A. (2016, February 10). To hell with good intentions: Linked data, community and the power to name. Retrieved from Mark A. Matienzo website: [https://matienzo.org/2016/to-hell-with-good-intentions/](https://matienzo.org/2016/to-hell-with-good-intentions/)
+Matienzo, M. A. "To Hell With Good Intentions: Linked Data, Community, and the Power to Name." Keynote. Library Information Technology Association Forum, Minneapolis, MN, November 14, 2015.[https://matienzo.org/2016/to-hell-with-good-intentions/](https://matienzo.org/2016/to-hell-with-good-intentions/)
 
 McFall, L. M. (2016). Beyond the back room: The role of metadata and catalog librarians in digital humanities. In *Business Intelligence: Concepts, Methodologies, Tools, and Applications* (pp. 2220-2241). IGI Global.
 
